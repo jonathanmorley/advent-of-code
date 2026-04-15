@@ -11,4 +11,4 @@ aoc-main = { workspace = true }
 grid = "0.12.0"
 itertools = "0.12"
 num-bigint = "0.4.3"
-petgraph = "0.6.2"
+petgraph = "0.6.5"
